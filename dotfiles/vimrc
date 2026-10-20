@@ -1,0 +1,12 @@
+set encoding=utf-8
+set nocompatible
+set number
+set shiftwidth=4
+set tabstop=4
+set autoindent
+set ignorecase
+
+syntax on
+colorscheme darkblue
+
+autocmd FileType python setlocal expandtab
